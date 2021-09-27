@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/yogeshkirpal/Downloads/Lab 21_12.zip"/>
+			<item value="/Users/yogeshkirpal/Downloads/Lab 21_11.zip"/>
+			<item value="/Users/yogeshkirpal/Downloads/Lab 21_10.zip"/>
+			<item value="/Users/yogeshkirpal/Downloads/Lab 21_9.zip"/>
+			<item value="/Users/yogeshkirpal/Downloads/Lab 21_8.zip"/>
+			<item value="/Users/yogeshkirpal/Downloads/Lab 21_7.zip"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="425"/>
+		<item key="DIALOG_Y_ORIGIN" value="241"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>
